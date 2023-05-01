@@ -1,5 +1,8 @@
 # Bellabeat-Case-Study-with-R
 
+![image](https://user-images.githubusercontent.com/43418706/235446228-0fcc0f1d-7f40-4852-8794-7d384870f0e9.png)
+
+
 # Introduction
 Welcome to my Bellabeat data analysis case study! In this case study, I will perform real-world tasks of a data analyst. And in order to answer some key business questions, I will follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act.
 
